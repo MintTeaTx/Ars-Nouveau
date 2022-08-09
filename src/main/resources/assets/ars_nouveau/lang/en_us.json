@@ -1134,5 +1134,8 @@
 	"entity.ars_nouveau.orbit": "Orbit",
 	"entity.ars_nouveau.scryer_camera": "Scryer Camera",
 	"entity.ars_nouveau.spell_arrow": "Spell Arrow",
-	"entity.ars_nouveau.spell_proj": "Spell Projectile"
+	"entity.ars_nouveau.spell_proj": "Spell Projectile",
+
+	"entity.minecraft.villager.ars_nouveau.disguised_starbuncle": "Disguised Starbuncle"
+
 }

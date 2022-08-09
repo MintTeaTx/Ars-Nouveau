@@ -62,6 +62,8 @@ public class ModSetup {
         Deferred.CONFG_REG.register(modEventBus);
         Deferred.PLACED_FEAT_REG.register(modEventBus);
         LootRegistry.GLM.register(modEventBus);
+        VillagerRegistry.POIs.register(modEventBus);
+        VillagerRegistry.VILLAGERS.register(modEventBus);
     }
 
     public static void registerEvents(RegisterEvent event) {
